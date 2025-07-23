@@ -1,0 +1,959 @@
+Interviewer: Thank you for participating in this interview. We will ask you a few questions. Your gender is male, and...
+Interviewer: Alright. What about your age and educational background?
+Interviewee: I have a college degree and am 50 years old.
+Interviewer: Okay, could you rate your experience with operating robots on a scale of 1 to 10?
+Interviewee: From my perspective, for our second-generation robots, I would give it a 9.
+Interviewer: Nine. Can you describe the type of tasks you typically complete with the robot?
+Interviewee: Well, the robot, for example, when we move items, its movement and angles need to be quite flexible. It shouldn’t be too rigid. When we use it, its turning should be soft and gentle.
+Interviewer: So, you want to add a motion delay to make it move more like a human arm, correct?
+Interviewer: Which part of operating the robot is the most intuitive for you, and which part needs improvement?
+Interviewee: I think the teach pendant should be as simple as possible. The simpler, the better.
+Interviewer: How would you rate its ease of use on a scale of 1 to 10?
+Interviewee: For ease of use, I’d give it a 9.
+Interviewer: That's very important, isn't it? How did you learn to operate the robot? Through formal training, on-the-job help, self-study, or other methods?
+Interviewee: Sometimes, especially for maintenance, we learn from colleagues. Our factory also provides some training. Now that we're dealing with more intelligent devices, we learn a lot from each other.
+Interviewer: How would you rate its impact on production efficiency and productivity on a scale of 1 to 10?
+Interviewee: For production efficiency, I'd give it an 8.
+Interviewer: What positive and negative impacts do you think it has had?
+Interviewee: Positively, it's safer for moving and packaging items since it doesn't require manual labor. However, our second-generation robots are still not very intelligent in many situations.
+Interviewer: How do you feel emotionally when operating the robot? What's your usual sentiment?
+Interviewee: I actually really enjoy operating it.
+Interviewer: Do you feel satisfied with it? When you’re working with the robot, do you feel like you’re working with a machine or treating the robot as a colleague, jointly completing a task?
+Interviewee: I treat it as a colleague.
+Interviewer: How much do you trust the robot?
+Interviewee: I trust it a lot, maybe 90%.
+Interviewer: What about its safety and reliability? How would you rate that?
+Interviewee: For safety, the best method would be voice control. For example, if we want to run a certain mode, using voice commands would be the fastest.
+Interviewer: Do you think its safety needs improvement?
+Interviewee: The current safety is adequate. If it had voice control and could sense when someone enters its operational range using cameras, that would enhance safety.
+Interviewer: What about its customization and adaptability?
+Interviewee: Can it adjust its settings based on your work habits, or adapt to different environments to help you complete various tasks?
+Interviewer: Currently, I think it's quite capable of completing these tasks.
+Interviewee: How do you feel about the physical interaction with the robot?
+Interviewer: It's fine.
+Interviewee: Without voice commands, visual feedback, or other features, how do you feel about its operating interface?
+Interviewer: The interface should be as simple as possible.
+Interviewee: Is operating it enjoyable for you?
+Interviewer: Yes, I enjoy operating it.
+Interviewee: Do you have any suggestions for the future development of robots, from your perspective?
+Interviewer: I'm very much in favor of AI and voice interaction. It's simple and direct. For example, when we need to activate a program, using voice commands would be ideal.
+Interviewee: So it could automatically set up the program for you. Anything else?
+Interviewer: Other than that, I think the development of the third generation will be even better.
+Interviewee: Alright, thank you very much.
+
+Interviewer: Thank you. The main purpose is to survey your experience operating robots. I am a student collecting information for my thesis. On a scale of 1 to 10, how would you rate your experience operating robots?
+
+Interviewee: Are you referring to the operational experience? Yes, for that, I would give it a full 10.
+
+Interviewer: Ten, alright. Could you describe the specific tasks you perform with the robot?
+
+Interviewee: Mainly, our tasks involve transferring goods from one point to another, simple point-to-point transportation.
+
+Interviewer: Which parts of operating the robot do you find straightforward, and which parts need improvement?
+
+Interviewee: For our basic point-to-point transportation tasks, I wouldn’t say there's much that needs improvement.
+
+Interviewer: How do you rate the robot's ease of use, and how difficult was it to learn its operation?
+
+Interviewee: In terms of system operation, I don't find it very hard. Learning was quite fast. The ease of use, I believe, would depend on the individual, but for me, it's quite good.
+
+Interviewer: How did you learn to operate the robot? Was it through formal training, on-the-job help, or self-study? Which resources were the most helpful?
+
+Interviewee: Initially, I received five days of training at a school. The main learning, however, was through personal hands-on experience and consulting the provided books and operational manuals, especially for troubleshooting.
+
+Interviewer: What difficulties did you encounter when you first started using the robot, and how were these issues resolved?
+
+Interviewee: Initially, I didn't face any significant difficulties. The only minor challenge was dealing with component failures and needing to replace parts like motors or encoders. For technical issues, we contacted the equipment department for assistance.
+
+Interviewer: How would you rate the robot’s impact on efficiency and productivity on a scale of 1 to 10, considering factors like task completion speed and quality changes?
+
+Interviewee: I don't see any negative impacts. It primarily helps us reduce manual labor, so I'd give it a full 10.
+
+Interviewer: What are your general feelings when operating the robot? Is it satisfaction, happiness, indifference, or something else?
+
+Interviewee: For me, it's a kind of challenge because my background is in numerical control, not robotics. So, adapting to this new technology was a significant change.
+
+Interviewer: What's your age and educational background?
+
+Interviewee: I completed vocational training and am 32 years old, born in 1990.
+
+Interviewer: When operating the robot, do you feel like you're in control of the robot, or is it more of a collaborative effort?
+
+Interviewee: It's collaborative. We work together, maintaining the machine, helping each other, and aiming to achieve a common goal of production output.
+
+Interviewer: How much do you trust the robot in completing tasks, and what is this trust based on?
+
+Interviewee: I trust it quite a lot. It meets our production and transportation needs. The trust is based on the robot's performance and our regular maintenance of the equipment.
+
+Interviewer: What's your opinion on the robot's safety during operation? Have you had any specific safety experiences?
+
+Interviewee: Our automated line is enclosed with protective barriers, ensuring safety. Once the safety doors are opened, the system automatically shuts down.
+
+Interviewer: Are you satisfied with the quality of the training you received for operating the robot? Did the training effectively help you acquire the necessary skills?
+
+Interviewee: The training was definitely helpful and necessary. I am satisfied with the quality of the training I received.
+
+Interviewer: Can the robot adjust its settings based on your work habits or preferences? Can it adapt to different work tasks or environments?
+
+Interviewee: In terms of adaptability, I'd give it an 8. We can adjust and adapt certain settings based on our needs and work requirements.
+
+Interviewer: How do you feel about the physical interaction with the robot, such as touching or manipulating it?
+
+Interviewee: Initially, it felt strange, but I got used to it over time. It's hard to describe the tactile experience, but it's precise and reliable for the tasks.
+
+Interviewer: Have you had any experience with voice guidance or visual feedback from the robot?
+
+Interviewee: No voice commands, but we do have visual indicators like light signals and screen prompts, which are helpful. I haven't worked with voice-command features.
+
+Interviewer: Does the robot's operational interface meet your needs?
+
+Interviewee: Yes, the interface meets our requirements and is quite satisfactory.
+
+Interviewer: Does operating the robot add enjoyment to your work? Does it make your work more enjoyable compared to before?
+
+Interviewee: Yes, it makes work easier and more enjoyable, mainly by reducing the physical labor and the risk of human error in tasks like lifting heavy items.
+
+Interviewer: What are your expectations or suggestions for the future of robot technology, especially considering your current work situation? Is there anything you think could be improved?
+
+Interviewee: The first improvement would be wireless operation, as our current system has long wires which can be cumbersome. Also, the mechanical hands or grippers tend to wear out and deform after repeated use, affecting precision. It would be better if this wear and tear could be reduced.
+
+Interviewer: How do you think the robot affects the workplace culture and social interactions at your job?
+
+Interviewee: It doesn't have a significant impact, other than enhancing our company's image and increasing self-esteem among the workforce.
+
+Interviewer: Thank you for your responses.
+
+Interviewer: Thank you for providing the opportunity. We are primarily conducting a survey about the experience of operating robots. On a scale of 1 to 10, how would you rate your overall experience?
+
+Interviewee: Our current experience isn't perfect but still quite good, maybe around 8.5.
+
+Interviewer: 8.5, okay. Could you describe the kind of tasks you are completing with the robot?
+
+Interviewee: Mainly, we use it for transporting items, focusing on the transfer from one point to another.
+
+Interviewer: In operating the robot, which parts do you find most intuitive and which parts require improvement?
+
+Interviewee: The most intuitive aspect is its basic functionality. However, its positioning isn't always stable, especially since our products are quite heavy. This can affect the precision of the robot.
+
+Interviewer: What aspects of the robot are most challenging or impactful in your work?
+
+Interviewee: The area for potential improvement is in program optimization, especially for coordinating different products. Different efficiencies are required for different tasks, which impact the overall assembly. This communication with the machine needs optimization.
+
+Interviewer: How difficult was it to learn to operate the robot? How would you rate its ease of use?
+
+Interviewee: The learning curve wasn't steep. I found it quite simple, so I would rate its ease of use around 8 or 9 out of 10.
+
+Interviewer: How did you learn to operate the robot? Through formal training, assistance from colleagues, or self-study? Which was most helpful?
+
+Interviewee: It was mainly through formal training, supplemented by help from colleagues.
+
+Interviewer: What difficulties did you face in the initial stages of using the robot, and how were they resolved?
+
+Interviewee: Initially, we faced several issues, like identifying and resetting original points and getting familiar with the system. When encountering system errors or unfamiliar signals, we usually referred to the manual or learned through hands-on experience.
+
+Interviewer: How would you rate the robot's impact on production efficiency and productivity on a scale of 1 to 10?
+
+Interviewee: There's no negative impact. The robot helps reduce labor. I'd rate it a 10 for its ability to continuously work without fatigue.
+
+Interviewer: What emotional experiences do you typically have when operating the robot? From frustration to happiness, how would you score it?
+
+Interviewee: From my perspective, I find the experience quite positive. It's a good challenge for me, so I would give it a 9.
+
+Interviewer: Do you trust the robot to complete its tasks? What is this trust based on?
+
+Interviewee: Yes, I fully trust it. It always completes the assigned tasks without slacking, based on its program code and operational precision.
+
+Interviewer: What is your view on the safety and reliability of the robot during operation? Have you ever had concerns about its safety?
+
+Interviewee: There are no safety concerns. Our automated line is well-protected, and the robot ceases operation if the safety doors are opened.
+
+Interviewer: Are you satisfied with the training you received for operating the robot? Was it effective in helping you acquire the necessary skills?
+
+Interviewee: The training time was short, and we mostly relied on third-party training. We didn't participate in any professional training specifically for operating this robot.
+
+Interviewer: Can the robot adapt to your specific needs, like work habits or preferences? Do you think it can adjust to different tasks and environments?
+
+Interviewee: There are some limitations. While it's standardized for certain tasks, adjustments for different products are needed, which require further optimization.
+
+Interviewer: How do you feel about the physical interaction with the robot, such as during transportation or position adjustments?
+
+Interviewee: The process is standardized. We just follow the set procedure without much difficulty.
+
+Interviewer: Have you experienced any voice or visual feedback from the robot?
+
+Interviewee: No, we haven't used any voice commands. We have visual indicators, but no experience with voice feedback.
+
+Interviewer: Does the robot's operational interface meet your needs?
+
+Interviewee: Yes, it was designed according to our requirements and meets our current needs.
+
+Interviewer: How important do you think reaction time is in meeting your needs? Which aspects of operating the robot are most important to you?
+
+Interviewee: Reaction time is important due to its impact on efficiency. The key aspects are the operator's experience, ease of operation, efficiency, productivity, emotional experience, trust, safety, reliability, and adaptability.
+
+Interviewer: Do you have any expectations or suggestions for the future development of robot technology?
+
+Interviewee: It should be more concise and straightforward in operation. Communication between the machine and operators could be improved for better matching. We rely onthird-party training to meet our needs. A more efficient and adaptable system that reduces the need for frequent adjustments, especially when switching products, would be beneficial. The goal is to achieve seamless operation with improved communication between the robot and the operators, enhancing productivity and safety in the workplace.
+
+Interviewer: Do you think the presence of robots in the workplace has any impact on the culture or social interactions among people?
+
+Interviewee: Not really, our robot is primarily used for transportation, so it doesn't significantly impact workplace culture or social interactions.
+
+Interviewer: That covers most of the questions. Thank you very much for your cooperation.
+
+Interviewer: Thank you for joining the meeting. We will record the conversation and mainly discuss your age and educational level.
+
+Interviewee: Alright, I am 30 years old.
+
+Interviewer: And your educational level?
+
+Interviewee: Bachelor's degree.
+
+Interviewer: The first question is about your experience operating robots. On a scale of 1 to 10, how would you rate your experience?
+
+Interviewee: If we're talking about different robots, I'd say ABB gets a 9, while Fanuc would be around a 7.
+
+Interviewer: Why is that?
+
+Interviewee: ABB's operation is much simpler. Fanuc's operation is more cumbersome and involves too many steps, which can be quite troublesome.
+
+Interviewer: What are the tasks these robots perform?
+
+Interviewee: They are mainly used for transporting wheels.
+
+Interviewer: In operating the robots, which parts do you find most intuitive and which parts need improvement?
+
+Interviewee: Once you get used to them, both are fine. However, Fanuc could be made less cumbersome and more streamlined.
+
+Interviewer: How would you rate the ease of use and the learning curve for these robots?
+
+Interviewee: Fanuc would get an 8, and ABB a bit higher, maybe a 9.
+
+Interviewer: How did you learn to operate the robots? Through formal training, help from colleagues, or self-study? Which resources were the most helpful?
+
+Interviewee: Mainly through assistance from colleagues.
+
+Interviewer: What difficulties did you face at the beginning of using the robots, particularly with Fanuc?
+
+Interviewee: Initially, it was challenging to get used to the English letters and codes. However, ABB was easier to remember due to its fewer steps and more straightforward process.
+
+Interviewer: How would you rate the robot's impact on production efficiency and productivity?
+
+Interviewee: The change to robots has definitely been beneficial, making things more convenient and reducing the need for manual labor. I'd rate it a 9.
+
+Interviewer: What kind of emotional experiences do you typically have when operating the robots? Is it challenging?
+
+Interviewee: It's a challenge, especially when encountering unfamiliar alarms or issues. Sometimes it requires asking the manufacturer or others how to resolve the issues.
+
+Interviewer: Do you feel like you're controlling the robot, or is it more of a collaboration?
+
+Interviewee: It feels like I am the one controlling it.
+
+Interviewer: How much do you trust the robot to complete its tasks?
+
+Interviewee: I trust it quite a lot, around an 8.
+
+Interviewer: What about the safety and reliability of the robot during operation?
+
+Interviewee: The primary issue is with the locking mechanism, which is part of the safety features but not directly related to the robot itself. Adding cameras and a Cartesian coordinate system algorithm could make it smarter, detecting human presence and stopping operation accordingly.
+
+Interviewer: Do you think the robot meets your needs for customization, adjusting its settings or positions based on your work preferences?
+
+Interviewee: Currently, it meets our needs quite well, as we can adjust the settings as required.
+
+Interviewer: Is there room for improvement, especially during maintenance?
+
+Interviewee: One area for improvement is making the variable speed drives easier to replace.
+
+Interviewer: What's your feeling during the physical interaction with the robot, like during maintenance or adjustments?
+
+Interviewee: There's not much to say; we usually don't make those kinds of adjustments.
+
+Interviewer: Have you experienced any voice commands or visual feedback from the robot?
+
+Interviewee: No, those functions are not available in our system.
+
+Interviewer: Can the robot be remotely controlled?
+
+Interviewee: No, remote control is not possible in our system.
+
+Interviewer: How would you rate the robot's operational interface? Does it meet your needs?
+
+Interviewee: It's quite good and meets our needs once you get used to it.
+
+Interviewer: How about the robot's response speed?
+
+Interviewee: The response speed is adjustable and satisfactory.
+
+Interviewer: Does operating the robot bring you joy or add fun to your work compared to traditional methods?
+
+Interviewee: No, it's usually not fun, especially when there are problems.
+
+Interviewer: Finally, what are your expectations or suggestions for the future development of robot technology?
+
+Interviewee: I hope for more advanced and automated systems. The operation should be simplified, not cumbersome. The most crucial aspect is the ease of operation. We aim for a system that operates smoothly without issues. That's the area that needs improvement.
+
+Interviewer: Thank you.
+
+Interviewer: The first question is about your age and level of education.
+Interviewee: Well, I'm educated up to high school level. As for my age, I'm 52 this year.
+
+Interviewer: Can you describe your initial experience of operating the robot?
+Interviewee: Are you asking about the first time I operated it at work or the first time after the manufacturer's training?
+Interviewer: Both the first time at work and after the manufacturer's involvement. What were your feelings?
+Interviewee: Honestly, it wasn't too complicated because they had explained it before. After the explanation, you just follow those instructions. The operation itself is quite simple.
+
+Interviewer: How long did it take you to learn?
+Interviewee: I probably got used to it after about a week.
+Interviewer: What are the daily steps and processes like?
+Interviewee: Well, it depends on the daily production quantity. First, you start the assembly line, then you turn on the computers and follow their instructions. There are several unmanned transport vehicles, about 20 in total, which we collectively refer to as robots. After you receive instructions from the computer, you act accordingly. For instance, if a robot's display screen isn't showing properly, you need to fix that.
+
+Interviewer: Do you find the robot's operating interface intuitive and easy to understand from your perspective?
+Interviewee: That took us quite a while to learn.
+
+Interviewer: So, you mean the learning curve was quite steep? Also, do you think the robot has improved your work efficiency?
+Interviewee: Yes, it has certainly improved our work efficiency. It has increased our production capacity and also improved our product quality. Previously, we had issues with the assembly line, but now, with the robots, the quality has significantly improved. The defect rate used to be around 30% before, and now it's over 90%.
+
+Interviewer: Did you consider safety issues when operating the robot, or did you feel it was safe?
+Interviewee: Speaking of safety, there have been three incidents, but those were due to improper operation by the workers, not the robots themselves. For example, when a robot turns a corner and a worker doesn't stand clear, accidents can happen. After these incidents, we conducted comprehensive training for all staff to ensure proper operation and safety.
+
+Interviewer: Was the training formal, on-the-job, self-taught, or another method?
+Interviewee: We had formal training sessions in the office, and then we would go to the site to discuss what we learned in the training.
+
+Interviewer: How long did the training sessions last?
+Interviewee: Just a few minutes.
+
+Interviewer: Did you feel that was a burden or did it feel like a waste of time?
+Interviewee: Not at all, the time spent was quite minimal.
+
+Interviewer: How about the physical interaction with the robots, what's your experience and feeling about that?
+Interviewee: The robots have significantly improved the work environment. Before, we used to work in uncomfortable postures which was quite taxing on our bodies. Now, with the robots, we work standing up, which is much more comfortable and has also improved the quality of our work.
+
+Interviewer: Have you incorporated any voice or language commands with the robots?
+Interviewee: No, we haven't. We only use computer support for now.
+
+Interviewer: So, each workstation is pre-set with specific tasks and timings?
+Interviewee: Exactly. Each workstation is pre-set with specific tasks that need to be completed within a certain time frame.
+
+Interviewer: Do you receive visual feedback, like lights or screen prompts? How effective is that?
+Interviewee: Yes, we do, and it meets our current needs.
+
+Interviewer: Do you feel an emotional connection with the robots, or do they just feel like tools?
+Interviewee: There's definitely a positive feeling towards the robots. They have made our work easier and more efficient, and they have also had a positive impact on our physical well-being.
+
+Interviewer: What about the technical knowledge required to operate the robots? Is it challenging to obtain the necessary support?
+Interviewee: Getting the necessary technical support can be challenging. Our after-sales support is not very good. Often, they don't respond to our calls, and we have to figure things out on our own.
+
+Interviewer: Do you foresee personalized configurations for the robots based on individual needs in the future?
+Interviewee: Currently, we set up the robots based on our specific needs, like the time required for each task at the workstations. We haven't really thought much about further personalized configurations yet.
+
+Interviewer: How reliable and accurate are the robots in completing tasks?
+Interviewee: The robots are quite reliable, but we need more of them to meet our production demands. Currently, they can't complete more than 20% of the total tasks. If we want to increase the speed of operations, we'll need more robots.
+
+Interviewer: Have you had any experience with remote control of the robots?
+Interviewee: No, that's something the manufacturer handles. We haven't been involved in that.
+
+Interviewer: How about maintenance and upgrades for the robots? Have you encountered any issues there?
+Interviewee: We haven't had to do any upgrades or maintenance yet.
+
+Interviewer: How receptive are your colleagues to the robots?
+Interviewee: Very receptive. Everyone sees the benefits of working with the robots.
+
+Interviewer: Does the interface and operation of the robots fully meet your requirements, or do you see areas for improvement?
+Interviewee: One area for improvement is the screens of the robots. They are not very durable and often break, which makes them impractical.
+
+Interviewer: How about the response and reaction speed of the robots?
+Interviewee: The assembly speed of the robots is not yet up to our expectations. While the assembly line itself is not a problem, the testing phase at each workstation slows things down.
+
+Interviewer: How has the introduction of robots changed the workload for your team?
+Interviewee: The robots have reduced the physical strain, especially in terms of reducing the need to bend and perform physically demanding tasks.
+
+Interviewer: In case of emergencies, do you have any specific strategies for operating the robots?
+Interviewee: No, we haven't encountered such situations yet.
+
+Interviewer: Do you find working with the robots enjoyable?
+Interviewee: Yes, there's a certain pleasure in working with them, especially when you see them respond to the commands and operate smoothly.
+
+Interviewer: What are the main reasons for employee turnover in your team? Is it related to the workload or the learning curve associated with the robots?
+Interviewee: The workload isn't very high, but sometimes we struggle to meet production targets because we don't have enough robots. The main reasons for employee turnover are not related to the work itself but more to personal reasons like family or health issues.
+
+Interviewer: How much do you trust the robots in your work?
+Interviewee: We trust them a lot. They have become an integral part of our work.
+
+Interviewer: Finally, what are your expectations for the future of robot technology?
+Interviewee: We hope to see improvements in the maintenance aspect. After using the robots for a while, some parts tend to loosen, and maintenance becomes quite challenging.
+
+Interviewer: Alright, that's about it. Thank you for your time.
+Interviewee: No problem. Let's head to the cafeteria now.
+
+Interviewer: Thank you. I'd like to interview you about your experience using robots. We have several questions, about fifteen, focusing on your personal experiences with operating robots. First, can I ask your gender, age, and education level?
+
+Interviewee: Sure. I'm 48 years old and have a junior high school education.
+
+Interviewer: Can you describe your first experience with operating a robot and rate it on a scale of 1 to 10?
+
+Interviewee: The first time was a bit nerve-wracking due to lack of experience, but as I got used to it, it became quite convenient. I'd rate it above 9.
+
+Interviewer: What tasks do you mainly perform with the robot?
+
+Interviewee: Mainly, the robot is used for machining engine parts.
+
+Interviewer: Which aspects of operating the robot do you find most challenging and impactful for your work?
+
+Interviewee: The most challenging part is probably programming the robot. Otherwise, the operation is not too problematic.
+
+Interviewer: How would you rate the difficulty of learning to operate the robot?
+
+Interviewee: Having prior knowledge of numerical control, I found it relatively easy, so maybe around a 5 out of 10.
+
+Interviewer: How did you learn to operate the robot? Through formal training, colleagues, or self-study?
+
+Interviewee: I learned mainly through observing during the installation and adjustment phase and then during actual production.
+
+Interviewer: What was the learning period like?
+
+Interviewee: It was a few days of on-and-off learning during the operation phase. There wasn't a formal, systematic training period.
+
+Interviewer: How has using the robot impacted your work efficiency? Could you rate it and describe any positive or negative impacts?
+
+Interviewee: The robot's help in production would be rated above 9. It has increased efficiency and reduced the labor intensity of operators.
+
+Interviewer: How much has efficiency increased?
+
+Interviewee: For the specific line it's used on, efficiency has increased by more than 30%.
+
+Interviewer: What are your emotional experiences while operating the robot? Do you feel satisfied, frustrated, or something else?
+
+Interviewee: I am quite satisfied with it.
+
+Interviewer: Do you feel like you're controlling the robot, or working together with it?
+
+Interviewee: It feels like working together with the robot to complete tasks.
+
+Interviewer: How much do you trust the robot to complete its tasks?
+
+Interviewee: I trust it quite a lot, about an 8 out of 10.
+
+Interviewer: What about the robot's safety and reliability? Have you ever been concerned about safety during operation?
+
+Interviewee: If used correctly, I don't think there are safety issues or the chance of making errors.
+
+Interviewer: In case of errors, what are your emergency procedures?
+
+Interviewee: First, turn off the power system, then inspect and determine if we need an electrician or mechanic for repairs.
+
+Interviewer: Based on your experience, what safety improvements could be made to the robot?
+
+Interviewee: Improvements could be made in the locking mechanism, but these are not directly related to the robot itself. Installing cameras and a Cartesian coordinate system could make it smarter and safer.
+
+Interviewer: How would you rate the robot's ability to adapt to different work environments or tasks?
+
+Interviewee: I would rate it an 8 out of 10. It's quite adaptable to our current needs.
+
+Interviewer: Are there areas where you think the robot could be improved?
+
+Interviewee: There's always room for improvement, but we might not yet be at the level to suggest specific changes. For now, we are just using it for simple operations.
+
+Interviewer: If you could improve your experience with operating the robot, what direction would you take?
+
+Interviewee: That's a tough question. We're still in the early stages of using it, so it's hard to say what specific improvements I'd suggest.
+
+Interviewer: Thank you for your time.
+
+Interviewer: Could you start by sharing your age and education level?
+Interviewee: My education isn't very high, just middle school. I am over 40 years old.
+
+Interviewer: Could you describe your experience using the robot in your work?
+Interviewee: The robot generally works fine but has many minor issues. For example, it often fails to proceed to its designated spot in our vehicle room, just stopping there, causing significant delays.
+
+Interviewer: On a scale of one to ten, how would you rate your overall experience with the robot?
+Interviewee: To be honest, I'd give it a four or five. I expect it to respond immediately when I press the button, but it often gets confused and takes the wrong route.
+
+Interviewer: During the learning process of this machine, did you receive formal training or did you self-learn? How helpful were the resources provided?
+Interviewee: The most significant resource was the manufacturer, as we had no prior knowledge or formal training. When problems arose, we had to consult them, and they'd ponder over the issues and then provide feedback, sometimes through calls or videos, to help us resolve the problems.
+
+Interviewer: Has the robot improved your overall work efficiency, like speed or production, positively or negatively?
+Interviewee: Overall, the robot is quite slow and its system is unstable, often causing issues.
+
+Interviewer: While operating the robot, do you feel any emotional connection, like satisfaction, challenge, or frustration?
+Interviewee: It's hard to describe. Sometimes, when there are issues, it can be quite infuriating. The robot often malfunctions, like crashing or not responding to commands.
+
+Interviewer: How much do you trust the robot to complete tasks on a scale of one to ten?
+Interviewee: I'd give it a five, not very high.
+
+Interviewer: What about its safety and reliability? Can you rate that?
+Interviewee: For safety and reliability, I'd give it a seven or eight. There are risks, like it might crash into things or people if it loses control.
+
+Interviewer: Regarding the robot's adaptability to personalized settings, what would you rate it?
+Interviewee: It doesn't meet our needs. It's quite different from human operation, so I'd say it doesn't reach the expectations.
+
+Interviewer: How about the physical interaction with the robot? Can you rate that experience?
+Interviewee: It's hard to rate. Some aspects, like touch sensitivity, are not up to the mark.
+
+Interviewer: How about the visual feedback from the robot, like screen displays or indicators?
+Interviewee: The indicator lights are prone to failure and often malfunction.
+
+Interviewer: How do you feel about using the robot in the long term? Is it more of a joy, a negative aspect, or a burden?
+Interviewee: If the speed and system stability could be improved, it might be okay. But the system is very unstable and frequently malfunctions.
+
+Interviewer: Do you have any suggestions for future technological improvements that could make working with the robot more enjoyable?
+Interviewee: The robot could be slimmer and shorter, as its current height sometimes makes it difficult to operate. Also, the lifting mechanism often malfunctions, especially if not used for a while, which causes issues with our workflow.
+
+Interviewer: So, you have significant concerns about its safety and reliability?
+Interviewee: Yes, I have major doubts about its safety and reliability.
+Interviewer: Can you describe your initial feelings when you first used the robot?
+
+Interviewee: Initially, I felt it was okay, but sometimes it would lose control. I think there might be some issues with the system.
+
+Interviewer: Can you briefly describe the operating procedure?
+
+Interviewee: If it stops moving, I just handle it manually, like changing the battery. But the charging process needs improvement.
+
+Interviewer: Can you share your age and education level?
+
+Interviewee: I have elementary school education and I'm 52 years old.
+
+Interviewer: How intuitive do you find the robot's operation?
+
+Interviewee: It's fairly intuitive, but some parts often get loose, which is quite dangerous.
+
+Interviewer: How would you rate it overall?
+
+Interviewee: Around eight out of ten.
+
+Interviewer: Which areas do you think need improvement?
+
+Interviewee: Definitely the screen. It's usually the first to break.
+
+Interviewer: Did you self-learn how to operate the robot or did you have formal training?
+
+Interviewee: I learned by myself. Whenever it stopped or derailed, I just figured it out.
+
+Interviewer: How challenging was the learning process?
+
+Interviewee: Quite challenging. I had to explore and learn slowly.
+
+Interviewer: How has the robot impacted your production efficiency?
+
+Interviewee: I'd rate it eight out of ten. It's helpful but sometimes slows down the process, especially when it malfunctions.
+
+Interviewer: How satisfying is your experience with the robot on an emotional level?
+
+Interviewee: Using it can be frustrating. I'd rate the satisfaction as eight out of ten, as it can be quite troubling when it doesn't work properly.
+
+Interviewer: What are the main issues with the robot?
+
+Interviewee: Its speed can be unpredictable, and it sometimes moves erratically, which can be dangerous.
+
+Interviewer: How well does the robot meet your specific needs?
+
+Interviewee: It doesn't really meet my needs. I don't even know how to adjust it properly.
+
+Interviewer: What improvements would you suggest?
+
+Interviewee: The charging process needs to be faster. We have three sets of batteries but only two chargers.
+
+Interviewer: The main focus is to interview you about your experience using robots. Could you please tell us your gender, age, and level of education?
+Respondent: My name is Leng, I'm female, and I have a junior high school level of education.
+
+Interviewer: Can you describe your first experience using a robot? Please rate it on a scale from 1 to 10, with 1 being very poor and 10 being very satisfied.
+Respondent: I would give it a 5 or 6.
+
+Interviewer: Can you describe the specific process of using the robot?
+Respondent: It was quite convenient and flexible when I first started using the robot. But during the process, it sometimes stopped automatically or deviated from its path. Sometimes it swayed from side to side. And sometimes the machine just stopped suddenly.
+
+Interviewer: What challenges and difficulties did you encounter while using the robot?
+Respondent: Mainly adjustment issues.
+
+Interviewer: Do you think it's easy to learn how to use the robot? Please give a score.
+Respondent: It's neither easy nor difficult, I would give it a 6.
+
+Interviewer: What impact do you think the robot has on your productivity?
+Respondent: The production speed has slowed down, and the efficiency has decreased.
+
+Interviewer: What about your trust in the robot? How would you rate its ability to complete tasks?
+Respondent: I think it often has problems, so I don't trust it much.
+
+Interviewer: What score would you give for safety and reliability?
+Respondent: Very low, because it sometimes bumps into people or malfunctions.
+
+Interviewer: What about your experience with physical interaction?
+Respondent: Not very optimistic, because it does not adapt well to many working environments.
+
+Interviewer: Is operating the robot fun?
+Respondent: Just average.
+
+Interviewer: What are your expectations for the future of robots?
+Respondent: I hope it will be more stable and not so prone to problems.
+
+Interviewer: Thank you for sharing.
+Respondent: Thank you.
+
+Interviewer: Thank you, Master Ha. Could you please tell us your age and educational background first?
+Respondent: I'm 41 years old.
+Interviewer: And your educational background?
+Respondent: I have a technical secondary school education.
+
+Interviewer: Can you describe your first experience using a robot, perhaps on a scale of one to ten?
+Respondent: For the experience of using a robot, I would give it around eight or nine.
+Interviewer: Eight or nine, what specific task were you doing?
+Respondent: I was on-site, coordinating and troubleshooting with the robot.
+
+Interviewer: What specific part of the operation did you find most intuitive, and which part needs improvement?
+Respondent: The most intuitive and straightforward part of the operation... As for what can be improved, we're not very familiar with robots and can't directly pinpoint improvements.
+Interviewer: You can describe your feelings. Are there any parts that you find particularly uncomfortable to use, or do you feel you're passively adapting to the whole thing?
+Respondent: When it comes to robots, like for instance, in more delicate areas, sometimes the precision required can be quite demanding.
+
+Interviewer: During your learning period, how long did it take? Was it self-taught? Rate how easy it was to get started.
+Respondent: For us, getting started was relatively quick, simple things are easy to pick up. But to fully understand and master it, honestly, it takes some effort.
+
+Interviewer: How would you rate your learning process on a scale of one to ten?
+Respondent: Maybe around seven or eight, since we've just started getting familiar with this area. Quickly mastering it is not possible. For simple operations, we can reach seven or eight.
+
+Interviewer: What improvements do you think could enhance your productivity?
+Respondent: I can't really provide an answer to what should be improved at this moment.
+
+Interviewer: What kind of emotional experience do you usually have when using a robot? Are you satisfied, anxious, happy, or confused?
+Respondent: I wouldn't say anxious. It's more relaxed and pleasant.
+
+Interviewer: Do you feel that you are controlling the robot, or are you and the robot working collaboratively?
+Respondent: It should be considered a collaborative approach.
+
+Interviewer: How much do you trust the robot to complete tasks, on a scale of one to ten?
+Respondent: It depends on the robot. Some are more reliable than others. I'm not sure about the brand or performance, but the confidence level varies with different performance levels.
+
+Interviewer: What about safety? Have you ever been concerned about your safety during operations?
+Respondent: In terms of safety measures in our area, I'd say it's quite high.
+
+Interviewer: And how about the robot's adaptability to personalized settings to meet your work needs?
+Respondent: That should be feasible, yes.
+
+Interviewer: How do you find the physical interaction with the robot?
+Respondent: It's relatively reassuring to work with. The machine ensures speed and doesn't require much personal intervention, making it more relaxing and trustworthy.
+
+Interviewer: What is your satisfaction level when working with the robot, on a scale of one to ten?
+Respondent: I would say around eight.
+
+Interviewer: How do you find the workload and the robot's response speed and compatibility with your work?
+Respondent: It's very relaxing.
+
+Interviewer: Do you have any thoughts about the future of robots? How can they better assist your work?
+Respondent: We haven't really thought about these issues, as machines are somewhat of a generational gap for us.
+
+Interviewer: Alright, thank you!
+Interviewer: Hello, I'd like to ask you about your experience with operating machinery. Could you start by telling us your age and educational background?
+Respondent: I'm 35 years old, and I have a high school education.
+
+Interviewer: High school, okay. Can you describe your first experience with operating a robot?
+Respondent: Operating...
+Interviewer: Rate it from one to ten.
+Respondent: I'd give it an eight.
+Interviewer: Eight, okay.
+Respondent: It was okay. I didn't undergo any systematic training, just picked up what I didn't know from experienced workers.
+
+Interviewer: So you learned through the help of colleagues?
+Respondent: Yes, there were also instructors from the factory who taught basic operations, but no systematic training for the core functions.
+
+Interviewer: What tasks do you typically complete?
+Respondent: I work on processing products.
+Interviewer: Which parts of the product specifically?
+Respondent: It's the extinguishing properties part.
+
+Interviewer: What part of operating the robot do you find most intuitive, and which part needs improvement?
+Respondent: We're not too deep into the improvement aspects, but I feel it's quite refined and functional.
+
+Interviewer: How difficult is it to get started with the robot? Rate it from one to ten.
+Respondent: I'd say it's simple as long as you're somewhat familiar.
+
+Interviewer: What learning method helped you the most?
+Respondent: Learning by doing, through practice.
+
+Interviewer: How would you rate the impact of using robots on productivity and efficiency, including quality and speed, on a scale of one to ten?
+Respondent: I'd say eight. The speed is good, but it depends on the product. Some products are more suited for robots, especially those that are not prone to deformation.
+
+Interviewer: Overall, how would you rate the experience? Are you happy, or do you find it challenging? Rate it from one to ten.
+Respondent: It's normal, I'd say happy, around eight.
+
+Interviewer: What's your general mood when using the robot compared to your previous job?
+Respondent: Normal, happy when it's good, frustrated when there are problems, especially with product issues.
+
+Interviewer: Are these problems caused by the robot?
+Respondent: Not often, usually it's about the tooling or other issues, but overall, the robot is fine.
+
+Interviewer: Do you feel like you're controlling the robot, or are you and the robot working together?
+Respondent: It's more of a collaboration.
+
+Interviewer: How much do you trust the robot's ability to complete tasks? Rate it from one to ten.
+Respondent: I trust it completely, it rarely makes mistakes, and it's continuously improving in terms of safety.
+
+Interviewer: Rate its safety and reliability from one to ten.
+Respondent: Safety is good, I'd say ten.
+
+Interviewer: Do you feel you've mastered the necessary skills to operate the robot?
+Respondent: Basic skills, yes, especially regarding the programming and system environment.
+
+Interviewer: Do you think the robot meets your work preferences and needs?
+Respondent: Overall, it reduces labor intensity and provides convenience, increasing speed and efficiency.
+
+Interviewer: Do you see any room for improvement in the robot at your workstation?
+Respondent: Not much, it depends on the product.
+
+Interviewer: Are there any products that are particularly challenging to produce with the robot?
+Respondent: Yes, for instance, products with small tolerance in positioning holes. Sometimes the robot applies too much pressure or doesn't align perfectly, which could be due to how it's set up.
+
+Interviewer: How would you rate your physical interaction with the robot?
+Respondent: It's reliable, I'd say twenty out of ten if that's possible, as long as it's safe.
+
+Interviewer: What about your emotional experience while working with the robot?
+Respondent: There's no particular emotion, it's generally fine, ten out of ten.
+
+Interviewer: Any suggestions for the future or directions that could help improve efficiency and overall production quality?
+Respondent: The robot is good as it is. I believe professionals are continuously improving it. For now, it meets our needs.
+
+Interviewer: Alright, thank you very much.
+Respondent: Thank you.
+
+Interviewer: Alright, thank you for participating. I would like to ask you a few questions. First, could you tell us your age and educational background?
+Respondent: Technical secondary school.
+Interviewer: And your age?
+Respondent: 33 years old.
+
+Interviewer: Could you rate your first experience with operating a robot on a scale of one to ten?
+Respondent: Eight out of ten.
+Interviewer: And what kind of task did you complete?
+Respondent: Mainly programming and debugging.
+
+Interviewer: Which part of operating the robot do you find most intuitive, and which part needs improvement?
+Respondent: The aspect of intelligence. It's not as human-like as it could be. It can't be used as freely as desired; it doesn't meet that requirement yet.
+
+Interviewer: How would you rate the difficulty of getting started with the robot?
+Respondent: If it's basic operation, then it's relatively easy, around six to nine out of ten. But if it's more in-depth learning, it might be more challenging, about five out of ten.
+
+Interviewer: How did you learn to operate the robot?
+Respondent: Mainly self-learning and training provided by the manufacturer.
+
+Interviewer: How would you rate the impact of the robot on overall productivity and efficiency?
+Respondent: I'd say ten out of ten, as it positively impacts efficiency and quality, and it helps to reduce costs.
+
+Interviewer: How does it help to reduce costs?
+Respondent: Mainly through reducing labor and increasing efficiency.
+
+Interviewer: Emotionally, how do you feel about using the robot? Is it satisfying, or do you find it challenging?
+Respondent: It's moderately satisfying. Basic operations are easy, but more complex tasks like programming are challenging and require a certain level of knowledge.
+
+Interviewer: How much do you trust the robot's ability to complete tasks correctly?
+Respondent: If the programming is done correctly, it's completely trustworthy.
+
+Interviewer: How would you rate its safety and reliability?
+Respondent: If properly trained, it's reliable. But without proper training, it can be risky, perhaps only two or three out of ten. I've heard of accidents where people were injured due to operational errors.
+
+Interviewer: In which areas do you think the robot needs improvement?
+Respondent: Mainly in intelligence and making the initial operation more user-friendly.
+
+Interviewer: Does the robot meet your personal work requirements, like task monitoring and quality control?
+Respondent: It does to some extent, but it's still mainly just a tool for replacing manual labor, not very intelligent yet.
+
+Interviewer: How would you rate your physical interaction with the robot?
+Respondent: If I understand the machine well, it's like a person operating the robot, so quite good.
+
+Interviewer: And your overall satisfaction with working with the robot?
+Respondent: I'd give it seven out of ten because it still has some drawbacks, especially in terms of ease of operation and the high demands it places on operators.
+
+Interviewer: How about its accuracy and response speed?
+Respondent: It's usually fine, but the job load is not too heavy.
+
+Interviewer: What improvements would you like to see in the future?
+Respondent: More intelligence and easier operation. It should be able to accommodate more complex, human-like tasks.
+
+Interviewer: Do the two different robots you mentioned vary due to price or specific needs?
+Respondent: Yes, price and specific needs. If the need is simple, a cheaper robot suffices. But for higher needs, the cost and quality of the robot will be higher.
+
+Interviewer: Which brand are they?
+Respondent: I'm not clear about the specific brands.
+
+Interviewer: Alright, thank you.
+
+Interviewer: Could you tell us your age and educational background?
+Respondent: I'm 40 years old, male, with a technical secondary school education.
+
+Interviewer: Could you rate your overall experience with operating a robot on a scale of one to ten?
+Respondent: About seven or eight out of ten.
+
+Interviewer: What kind of task did you complete?
+Respondent: We mainly work on constructing automatic robot lines, from scheme design, parts processing, to on-site construction, installation, and debugging.
+
+Interviewer: Which part of operating the robot do you find most intuitive, and which part needs improvement?
+Respondent: I haven't really studied that.
+
+Interviewer: Which aspect do you find most challenging or has the most impact on your work?
+Respondent: It doesn't really impact my work. It's part of the job.
+
+Interviewer: How long did it take you to learn and master the robot, and how easy was it from one to ten?
+Respondent: It's quite simple, about seven or eight out of ten. Learning the basics and getting the robot to operate automatically takes about a day or two.
+
+Interviewer: How has the robot changed your production efficiency, on a scale of one to ten?
+Respondent: After using the robot, efficiency might drop slightly, but overall costs should reduce. Robots aren't as flexible as humans; they are more standardized but not as adaptable. For instance, a human might process up to a thousand parts, but a robot might only do about 500.
+
+Interviewer: What positive impacts does it bring?
+Respondent: It mainly reduces costs, especially labor costs.
+
+Interviewer: Rate its efficiency and productivity from one to ten.
+Respondent: About eight out of ten.
+
+Interviewer: How do you feel emotionally about using the robot compared to traditional methods? Rate it from one to ten, and share your feelings.
+Respondent: There's not much emotion involved, it's just part of the job. I'd rate it eight out of ten.
+
+Interviewer: Do you feel like you're controlling the robot, or are you working together with it?
+Respondent: I'd say I'm controlling it.
+
+Interviewer: How much do you trust the robot to complete tasks? Rate it from one to ten.
+Respondent: I trust the robots I set up, but not necessarily those set up by others. For my own setups, I'd rate it seven or eight out of ten.
+
+Interviewer: How about its safety and reliability?
+Respondent: If set up by me, I'm confident in its safety and reliability. If set up by others, not so much.
+
+Interviewer: Rate its overall performance, including others' setups.
+Respondent: Maybe seven or eight out of ten.
+
+Interviewer: Does the robot meet personalized requirements? Rate it from one to ten.
+Respondent: About seven or eight out of ten. Different robot brands have their own unique features and functions.
+
+Interviewer: How intuitive and easy to understand is the robot's operating interface?
+Respondent: It varies by brand. Some are less user-friendly than others.
+
+Interviewer: How important is efficiency from one to ten?
+Respondent: Efficiency is important, and most machines meet the basic requirements.
+
+Interviewer: How about visual feedback, like lights and screen prompts? Are they important, and how would you rate them?
+Respondent: For projects that require visual feedback, it's crucial. However, many projects don't utilize these features.
+
+Interviewer: Rate the importance of visual feedback.
+Respondent: If needed for a project, it's highly important. It can be affected by lighting, surface cleanliness, and reflections.
+
+Interviewer: How about the robot's response time and workload?
+Respondent: It can certainly reduce workload.
+
+Interviewer: Is operating the robot enjoyable compared to traditional work?
+Respondent: It's about the same. A robot is just another piece of equipment.
+
+Interviewer: What future expectations or suggestions do you have for robot technology?
+Respondent: We currently customize solutions based on client needs. The direction of robot development should be based on what's most suitable for the clients.
+
+Interviewer: Thank you.
+Respondent: Thank you.
+
+Interviewer: Could you start by telling us your age and educational background?
+Respondent: I'm 37 and have a technical school education.
+
+Interviewer: Could you rate your overall experience operating a robot on a scale of one to ten?
+Respondent: I'd say eight or nine out of ten.
+
+Interviewer: What kind of task did you complete?
+Respondent: Production, manufacturing products. Specifically, loading and unloading parts using the robot.
+
+Interviewer: Which part of operating the robot do you find most intuitive, and which part needs improvement?
+Respondent: I'm not an expert, but...
+Interviewer: Just from your personal experience, like how you would feel about using a phone, what feels good and what doesn't when using the robot. You don't have to worry about whether it's correct or not, just share your feelings.
+Respondent: I just press the button to make the robot load and unload on the high shelves.
+
+Interviewer: Which aspect of operating the robot is the most challenging?
+Respondent: The programming part is relatively challenging.
+
+Interviewer: How much time did you spend learning to operate the robot, and how difficult was it from one to ten?
+Respondent: It's quite straightforward, about eight or nine out of ten. It only takes a day or two to learn the basics and get the robot running automatically.
+
+Interviewer: How did you learn to operate the robot? Was it formal training or self-learning?
+Respondent: A bit of both, self-learning and training provided by the manufacturer.
+
+Interviewer: During your learning, which parts helped you quickly grasp how to operate the robot?
+Respondent: Understanding specific programming sections of the machine and certain buttons on the operation panel.
+
+Interviewer: What difficulties did you face when you first started using the robot?
+Respondent: Initially, it was challenging to handle alarms or other issues that stopped the robot from running.
+
+Interviewer: How does the robot impact production efficiency and productivity? Rate it from one to ten.
+Respondent: It reduces labor intensity but can have a negative impact on mood. If you get used to the robot and then switch to a standard machine, it feels more tiring. It's somewhat of a negative emotional impact. But for production efficiency itself, I'd rate it nine out of ten.
+
+Interviewer: Emotionally, how do you feel about using the robot compared to traditional methods? Rate it from one to ten, and share your feelings.
+Respondent: It's challenging. When I don't understand something, I feel quite frustrated.
+
+Interviewer: So your overall mood is somewhat negative?
+Respondent: Not exactly, only when facing difficulties. It's quite frustrating when I don't know what to do.
+
+Interviewer: When operating the robot, do you feel like you're controlling it, or are you working together with the robot?
+Respondent: I'm working together with the robot.
+
+Interviewer: How much do you trust the robot to complete tasks? Rate it from one to ten.
+Respondent: I'd say nine out of ten. Once you get used to it and it operates without errors, you start to trust it.
+
+Interviewer: How about its safety and reliability?
+Respondent: It's reliable, ten out of ten.
+
+Interviewer: Does the robot meet any personalized requirements you might have, like specific tasks or preferences?
+Respondent: Yes, it does. It can handle monitoring time, quantity, and quality, which is quite beneficial. I'd rate it nine out of ten.
+
+Interviewer: How does the robot affect your workload?
+Respondent: It reduces the workload.
+
+Interviewer: What improvements would you like to see in the future, specifically for your job?
+Respondent: Mainly the operation panel. It should display in Chinese characters that are understandable for us, making it instantly clear.
+
+Interviewer: Do you understand the symbols and graphics?
+Respondent: No, it's difficult to understand the symbols and graphics as I'm not familiar with them.
+
+Interviewer: Alright, thank you.
+Respondent: Thank you.
+
+Interviewer: Could you start by telling us your age and educational background?
+Respondent: I'm 27 years old and have an associate degree.
+
+Interviewer: Rate your overall experience with operating a robot on a scale of one to ten.
+Respondent: About six out of ten.
+
+Interviewer: Why only six?
+Respondent: Currently, the use of robots is quite limited. They are suitable for handling large volumes of work. However, issues arise when handling irregular workpieces or when there's variance in size, leading to dropped parts, improper placement, and subsequent damage to tools, workpieces, or even the robot. This leads to additional costs for repairs and maintenance.
+
+Interviewer: Which part of operating the robot is the most intuitive, and which part needs improvement?
+Respondent: Flexibility needs improvement, especially for handling tasks involving irregular workpieces. These require the robot to have flexible contact points and stability.
+
+Interviewer: How easy was it to learn to operate the robot, on a scale of one to ten?
+Respondent: About seven or eight out of ten, it's relatively easy.
+
+Interviewer: How did you learn to operate the robot? Was it through formal training?
+Respondent: Yes, training. Basic operation can be learned in a day or two. Understanding the entire system takes longer. The challenge lies in the variability of commands, which are not as standardized as those in machining centers.
+
+Interviewer: What difficulties did you face when you first started using the robot?
+Respondent: Issues like dropped parts, parts not being placed properly, and unexpected stops due to alarms.
+
+Interviewer: How does the robot affect production efficiency? Rate it from one to ten.
+Respondent: If everything is stable, it's more efficient than manual labor, so nine or above.
+
+Interviewer: What are the positive and negative impacts of using the robot?
+Respondent: Positively, it reduces labor and fatigue. Negatively, if something goes wrong in batch production, it can lead to significant waste.
+
+Interviewer: How do you feel emotionally about using the robot? Rate it from one to ten.
+Respondent: I'd give it a seven. It's a field of continuous improvement, and it's important to adapt to market and product needs.
+
+Interviewer: Do you feel like you're controlling the robot, or are you collaborating with it?
+Respondent: I'd say I'm controlling it; it assists me in my work.
+
+Interviewer: How much do you trust the robot to complete tasks? Rate it from one to ten.
+Respondent: About eight out of ten. I trust the robots I set up myself.
+
+Interviewer: How about its safety and reliability?
+Respondent: Ten out of ten, as long as you follow the rules, there shouldn't be any issues.
+
+Interviewer: Does the robot meet personalized requirements?
+Respondent: It's a six out of ten for now. It might improve in the future.
+
+Interviewer: What's your feeling when physically interacting with the robot?
+Respondent: It feels cold and emotionless.
+
+Interviewer: How does working with the robot compare to your previous work methods?
+Respondent: It's just another system to learn. I used to work with CNC tuning and am now learning about robot systems. It's a continuous learning process.
+
+Interviewer: What improvements would you like to see in the future for the robot to better assist your work?
+Respondent: Improvements in safety, stability, and monitoring are needed. The robot should be capable of handling a variety of tasks, especially in loading and unloading, and should adapt to different shapes and sizes to reduce human fatigue and injuries.
+
+Interviewer: Thank you.
+Respondent: Thank you.
